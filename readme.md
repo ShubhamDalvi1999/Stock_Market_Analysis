@@ -7,7 +7,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/yourbadge.svg)](https://wakatime.com/@yourbadge)
+[![wakatime](https://wakatime.com/badge/user/yourbadge.svg)](https://wakatime.com/@Mortal)
 
 <!-- Intro  -->
 <h3 align="center">
