@@ -118,3 +118,113 @@ df = SparkSession.builder.appName("NSEProject").getOrCreate()
 
 currentdf = df.read.option("header", "true").option("inferSchema", "true").csv("fo03MAY2023bhav.csv")
 prevdf = df.read.option("header", "true").option("inferSchema", "true").csv("fo02MAY2023bhav.csv")
+```
+
+### Filtering Specific Instruments
+Filtering data to include only instruments with values "FUTIDX" or "FUTSTK".
+
+```python
+from pyspark.sql.functions import col
+
+newcurrdff = currentdf.filter(col("INSTRUMENT").isin(["FUTIDX", "FUTSTK"]))
+newprevdff = prevdf.filter(col("INSTRUMENT").isin(["FUTIDX", "FUTSTK"]))
+```
+
+### Data Transformation
+Date Formatting and Filtering
+Transforming the date column into a standard format and filtering by the nearest expiry date.
+
+```python
+from pyspark.sql.functions import to_date, regexp_replace
+import datetime
+import calendar
+
+curr_month_two_digit = str(datetime.date.today().strftime('%m'))
+curr_month = datetime.datetime.now().month
+get_short_month_name = str(calendar.month_abbr[curr_month])
+
+currdf = newcurrdff.withColumn("EXPIRY_DT_NUM", regexp_replace(col("EXPIRY_DT"), str(get_short_month_name), str(curr_month_two_digit)))
+prevdf = newprevdff.withColumn("EXPIRY_DT_NUM", regexp_replace(col("EXPIRY_DT"), str(get_short_month_name), str(curr_month_two_digit)))
+
+current_df = currdf.drop(col("EXPIRY_DT")).filter(col("EXPIRY_DT_NUM").isin("25-05-2023"))
+prev_df = prevdf.drop(col("EXPIRY_DT")).filter(col("EXPIRY_DT_NUM").isin("25-05-2023"))
+```
+
+### Merging Data
+Joining previous day's closing prices and open interest to the current day's data for comparison.
+
+
+```python
+import pandas as pd
+
+prevdf_renamed = prevdf.select([col(c).alias(c + '_prev') for c in prevdf.columns])
+PREVCOL = prevdf_renamed.select("CLOSE_prev").toPandas()
+current_panda_df = current_df.toPandas()
+currentdf = current_panda_df.join(PREVCOL)
+
+schema = StructType([
+    StructField("INSTRUMENT", StringType(), True),
+    # Other fields...
+    StructField("CLOSE_prev", FloatType(), True)
+])
+
+mergeddf = spark.createDataFrame(currentdf, schema=schema)
+```
+### Analysis and Filtering
+Calculating Changes
+Calculating changes in closing prices and open interest.
+
+```python
+from pyspark.sql.functions import col
+
+new_merged = mergeddf.withColumn('CHANGE_IN_LTP', ((col('CLOSE') - col('CLOSE_prev')) / col('CLOSE_prev')) * 100)
+all_merged = new_merged.withColumn('CHANGE_IN_OI', ((col('OPEN_INT') - col('OPEN_INT_prev')) / col('OPEN_INT_prev')) * 100)
+```
+### Filtering Trading Signals
+Identifying long build-up, short build-up, long unwinding, and short unwinding signals based on specific criteria.
+
+```python
+long_buildup = all_merged.filter((col('CHANGE_IN_OI') > 8.5) & (col('CHANGE_IN_LTP') > 2))
+longbuildupdf = long_buildup.withColumn("CALL", lit("Buy CE or Sell PE if uptrend confirms")).withColumn("CALL_TYPE", lit("LONG_BUILDUP"))
+
+short_buildup = all_merged.filter((col('CHANGE_IN_OI') > 8.5) & (col('CHANGE_IN_LTP') > -1.8))
+shortbuildupdf = short_buildup.withColumn("CALL", lit("Buy PE or Sell CE if downtrend confirms")).withColumn("CALL_TYPE", lit("SHORT_BUILDUP"))
+
+long_unwinding = all_merged.filter((col('CHANGE_IN_OI') > -8.5) & (col('CHANGE_IN_LTP') > -2))
+longunwindingdf = long_unwinding.withColumn("CALL", lit("Buy PE or Sell CE if downtrend confirms")).withColumn("CALL_TYPE", lit("LONG_UNWINDING"))
+
+short_unwinding = all_merged.filter((col('CHANGE_IN_OI') > -8.5) & (col('CHANGE_IN_LTP') > 2))
+shortunwindingdf = short_unwinding.withColumn("CALL", lit("Buy CE or Sell PE if uptrend confirms")).withColumn("CALL_TYPE", lit("SHORT_UNWINDING"))
+
+calls_today = longbuildupdf.union(shortbuildupdf).union(longunwindingdf).union(shortunwindingdf)
+```
+### Saving Results
+Saving the final merged DataFrame with all signals to a CSV file.
+
+```python
+calls_today.coalesce(1).write.format("csv").option("header", "true").save("Final_Result.csv")
+```
+
+Visualizing Data
+Plotting the distribution of CHANGE_IN_LTP values to understand the data better.
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+pdf = all_merged.select('CHANGE_IN_LTP').toPandas()
+n, bins, patches = plt.hist(x=pdf, bins=20, color='#0504aa', alpha=0.7, rwidth=0.85)
+
+plt.grid(axis='y', alpha=0.75)
+plt.xlabel('Value')
+plt.ylabel('Frequency')
+plt.title('Distribution of CHANGE_IN_LTP')
+
+plt.show()
+```
+
+## Usage Instructions
+- **1.**: Ensure PySpark and other dependencies are installed.
+- **2.**: Download the relevant CSV files for the dates you want to analyze.
+- **3.**: Run the provided Jupyter notebook code step-by-step.
+- **4.**: Review the generated signals and CSV outputs for trading insights.
