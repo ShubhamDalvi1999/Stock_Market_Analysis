@@ -27,21 +27,9 @@
 </p>
 
 <p align="center">
- <a href="https://yourwebsite.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="yourwebsite" />
- </a>
  <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/>
  </a>
- <a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="yourhandle" />
- </a> 
- <a href="https://facebook.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="yourhandle"  />
- </a> 
 </p>
 <br />
 
@@ -51,10 +39,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy solving complex data problems <br/><br/>
+ ✌️ &emsp; Enjoy solving data problems <br/><br/>
  ❤️ &emsp; Passionate about big data technologies and distributed systems<br/><br/>
- 📧 &emsp; Reach me anytime: your.email@example.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/yourusername/yourrepository/issues)
+ 📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
 
 </p>
 
@@ -87,8 +74,6 @@ This project focuses on analyzing NSE (National Stock Exchange) data using PySpa
 - [Saving Results](#saving-results)
 - [Visualizing Data](#visualizing-data)
 - [Usage Instructions](#usage-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 - **PySpark**: For distributed data processing.
