@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<a href="https://komarev.com/ghpvc/?username=yourusername">
-  <img align="right" src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 [![wakatime](https://wakatime.com/badge/user/yourbadge.svg)](https://wakatime.com/@Mortal)
 
