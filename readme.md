@@ -18,7 +18,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Your+Name">「 Google Me 」</a>
     <br>
     「 I am a data engineer with a passion for big data and distributed computing 」
     <br>
