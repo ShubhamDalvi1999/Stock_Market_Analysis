@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a data engineer with a passion for big data and distributed computing 」
+    「 I am a data engineer with a passion for big data , distributed computing and data visualization 」
     <br>
     <br>
   </samp>
@@ -40,8 +40,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy solving data problems <br/><br/>
- ❤️ &emsp; Passionate about big data technologies, distributed systems and data visualizations<br/><br/>
- 📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
+ ❤️ &emsp; Passionate about solving big data technologies, distributed systems and data visualizations<br/><br/>
+ 📧 &emsp; Reach me : dshubhamp1999@gmail.com<br/><br/>
 
 </p>
 
