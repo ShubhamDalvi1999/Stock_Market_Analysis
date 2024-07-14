@@ -37,7 +37,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy solving data problems <br/><br/>
- ❤️ &emsp; Passionate about big data technologies and distributed systems<br/><br/>
+ ❤️ &emsp; Passionate about big data technologies, distributed systems and data visualizations<br/><br/>
  📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
 
 </p>
