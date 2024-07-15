@@ -21,9 +21,7 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Analyst+%40+Accenture;3+years+of+IT+experience;+Passionate+Data+Engineer;Spark+%7C+Azure+%7C+Power+BI+%7C+Snowflake+%7C+Airflow" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spark+%7C+DataBricks++%7C+Power+BI+;Snowflake+%7C+Azure++%7C+Airflow;3+yrs+of+IT+experience+as+Analyst+%40+;Accenture+;Passionate+Data+Engineer+" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
