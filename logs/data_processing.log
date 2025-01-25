@@ -1,0 +1,76 @@
+2025-01-12 20:32:09,326 - data_processing - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-12 20:32:09,327 - data_processing - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-12 20:32:13,501 - data_processing - INFO - Successfully initialized Spark session
+2025-01-12 20:32:13,501 - data_processing - INFO - Processing files: ['20250103_NSEFO.csv', '20250102_NSEFO.csv']
+2025-01-12 20:32:18,007 - data_processing - INFO - Successfully read 20250103_NSEFO.csv
+2025-01-12 20:32:18,383 - data_processing - INFO - Successfully read 20250102_NSEFO.csv
+2025-01-12 20:32:18,383 - data_processing - INFO - Selecting required columns...
+2025-01-12 20:32:18,432 - data_processing - INFO - Filtering by instrument type...
+2025-01-12 20:32:18,466 - data_processing - INFO - Calculated expiry date: 30-Jan-2025
+2025-01-12 20:32:18,466 - data_processing - INFO - Filtering by expiry date: 30-Jan-2025
+2025-01-12 20:32:19,328 - data_processing - INFO - Records after filtering - Current: 228, Previous: 228
+2025-01-12 20:32:19,328 - data_processing - INFO - Saving as Spark CSV files...
+2025-01-12 20:32:19,747 - data_processing - INFO - Saving as Pandas CSV files...
+2025-01-12 20:32:20,213 - data_processing - INFO - Saved processed files: Filtered_20250103_NSEFO, Filtered_20250102_NSEFO
+2025-01-12 20:32:20,506 - data_processing - INFO - Spark session stopped
+2025-01-12 20:32:20,515 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-01-12 21:01:31,282 - data_processing - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-12 21:01:31,282 - data_processing - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-12 21:01:35,052 - data_processing - INFO - Successfully initialized Spark session
+2025-01-12 21:01:35,052 - data_processing - INFO - Processing files: ['20250103_NSEFO.csv', '20250102_NSEFO.csv']
+2025-01-12 21:01:39,476 - data_processing - INFO - Successfully read 20250103_NSEFO.csv
+2025-01-12 21:01:39,817 - data_processing - INFO - Successfully read 20250102_NSEFO.csv
+2025-01-12 21:01:39,817 - data_processing - INFO - Selecting required columns...
+2025-01-12 21:01:39,856 - data_processing - INFO - Filtering by instrument type...
+2025-01-12 21:01:39,881 - data_processing - INFO - Calculated expiry date: 30-Jan-2025
+2025-01-12 21:01:39,881 - data_processing - INFO - Filtering by expiry date: 30-Jan-2025
+2025-01-12 21:01:40,693 - data_processing - INFO - Records after filtering - Current: 228, Previous: 228
+2025-01-12 21:01:40,693 - data_processing - INFO - Saving as Spark CSV files...
+2025-01-12 21:01:41,194 - data_processing - INFO - Saving as Pandas CSV files...
+2025-01-12 21:01:41,630 - data_processing - INFO - Saved processed files: Filtered_20250103_NSEFO, Filtered_20250102_NSEFO
+2025-01-12 21:01:41,630 - data_processing - INFO - Preparing visualization data...
+2025-01-12 21:01:41,797 - data_processing - INFO - Exported analysis data to Processed_20250112_Analysis.csv
+2025-01-12 21:01:41,799 - data_processing - INFO - Exported summary statistics to Summary_20250112.csv
+2025-01-12 21:01:42,033 - data_processing - INFO - Spark session stopped
+2025-01-12 21:01:42,035 - data_processing - INFO - Cleaned up temp directory
+2025-01-12 21:01:42,039 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-01-23 23:32:53,074 - data_processing - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:32:53,074 - data_processing - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:32:58,846 - data_processing - INFO - Successfully initialized Spark session
+2025-01-23 23:32:58,846 - data_processing - INFO - Processing files: ['20250117_NSEFO.csv', '20250116_NSEFO.csv']
+2025-01-23 23:33:05,051 - data_processing - INFO - Successfully read 20250117_NSEFO.csv
+2025-01-23 23:33:05,503 - data_processing - INFO - Successfully read 20250116_NSEFO.csv
+2025-01-23 23:33:05,505 - data_processing - INFO - Selecting required columns...
+2025-01-23 23:33:05,553 - data_processing - INFO - Filtering by instrument type...
+2025-01-23 23:33:05,597 - data_processing - INFO - Calculated expiry date: 30-Jan-2025
+2025-01-23 23:33:05,597 - data_processing - INFO - Filtering by expiry date: 30-Jan-2025
+2025-01-23 23:33:07,023 - data_processing - INFO - Records after filtering - Current: 228, Previous: 228
+2025-01-23 23:33:07,023 - data_processing - INFO - Saving as Spark CSV files...
+2025-01-23 23:33:07,779 - data_processing - INFO - Saving as Pandas CSV files...
+2025-01-23 23:33:08,367 - data_processing - INFO - Saved processed files: Filtered_20250117_NSEFO, Filtered_20250116_NSEFO
+2025-01-23 23:33:08,367 - data_processing - INFO - Preparing visualization data...
+2025-01-23 23:33:08,591 - data_processing - INFO - Exported analysis data to Processed_20250123_Analysis.csv
+2025-01-23 23:33:08,596 - data_processing - INFO - Exported summary statistics to Summary_20250123.csv
+2025-01-23 23:33:08,799 - data_processing - INFO - Spark session stopped
+2025-01-23 23:33:08,799 - data_processing - INFO - Cleaned up temp directory
+2025-01-23 23:33:08,809 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-01-23 23:38:04,636 - data_processing - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:38:04,636 - data_processing - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:38:09,644 - data_processing - INFO - Successfully initialized Spark session
+2025-01-23 23:38:09,644 - data_processing - INFO - Processing files: ['20250117_NSEFO.csv', '20250116_NSEFO.csv']
+2025-01-23 23:38:15,104 - data_processing - INFO - Successfully read 20250117_NSEFO.csv
+2025-01-23 23:38:15,544 - data_processing - INFO - Successfully read 20250116_NSEFO.csv
+2025-01-23 23:38:15,544 - data_processing - INFO - Selecting required columns...
+2025-01-23 23:38:15,600 - data_processing - INFO - Filtering by instrument type...
+2025-01-23 23:38:15,646 - data_processing - INFO - Calculated expiry date: 30-Jan-2025
+2025-01-23 23:38:15,646 - data_processing - INFO - Filtering by expiry date: 30-Jan-2025
+2025-01-23 23:38:16,646 - data_processing - INFO - Records after filtering - Current: 228, Previous: 228
+2025-01-23 23:38:16,646 - data_processing - INFO - Saving as Spark CSV files...
+2025-01-23 23:38:17,447 - data_processing - INFO - Saving as Pandas CSV files...
+2025-01-23 23:38:18,045 - data_processing - INFO - Saved processed files: Filtered_20250117_NSEFO, Filtered_20250116_NSEFO
+2025-01-23 23:38:18,045 - data_processing - INFO - Preparing visualization data...
+2025-01-23 23:38:18,263 - data_processing - INFO - Exported analysis data to Processed_20250123_Analysis.csv
+2025-01-23 23:38:18,267 - data_processing - INFO - Exported summary statistics to Summary_20250123.csv
+2025-01-23 23:38:18,602 - data_processing - INFO - Spark session stopped
+2025-01-23 23:38:18,602 - data_processing - INFO - Cleaned up temp directory
+2025-01-23 23:38:18,614 - py4j.clientserver - INFO - Closing down clientserver connection

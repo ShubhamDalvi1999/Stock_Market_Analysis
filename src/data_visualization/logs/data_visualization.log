@@ -1,0 +1,67 @@
+2025-01-25 15:22:59,238 - data_visualization - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:27:27,006 - data_visualization - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:27:27,010 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-25 15:27:28,414 - data_visualization - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:27:31,292 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:27:31,298 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:35:37,722 - data_visualization - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:35:37,962 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:35:37,962 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:36:31,541 - data_visualization - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:36:31,787 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:36:31,789 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:08,642 - root - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:09,421 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:09,422 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:28,238 - root - ERROR - Error loading data: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:28,483 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:38:28,484 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:39:46,354 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:39:46,354 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:39:46,567 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:39:46,568 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:40:04,037 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:40:04,037 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:40:04,224 - data_visualization - ERROR - Error updating symbol dropdown: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:40:04,225 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:40:56,630 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:40:56,630 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:40:58,004 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:40:58,007 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:40:58,008 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:40:58,010 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:41:06,181 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:41:06,182 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:41:07,012 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:07,014 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:07,014 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:41:07,017 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:41:13,016 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:13,018 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:41:13,025 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:13,031 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:41:22,049 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:22,051 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:41:22,066 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:41:22,067 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:42:53,233 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:42:53,233 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:42:54,562 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:42:54,564 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:42:54,564 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:42:54,566 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:43:08,357 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:43:08,357 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:43:08,568 - data_visualization - ERROR - Error loading latest data: max() iterable argument is empty
+2025-01-25 15:43:08,569 - data_visualization - ERROR - Error loading latest data: max() iterable argument is empty
+2025-01-25 15:43:08,569 - data_visualization - ERROR - Error loading latest data: max() iterable argument is empty
+2025-01-25 15:43:08,571 - data_visualization - ERROR - Error loading latest data: max() iterable argument is empty
+2025-01-25 15:43:29,470 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:43:29,470 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:43:30,492 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:43:30,494 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data/visualization'
+2025-01-25 15:43:30,495 - data_visualization - WARNING - No data available for stock lists
+2025-01-25 15:43:30,496 - data_visualization - ERROR - Error updating charts: [Errno 2] No such file or directory: 'data/visualization/Processed_20250123_Analysis.csv'
+2025-01-25 15:45:18,282 - data_visualization - ERROR - Error finding latest file: [WinError 3] The system cannot find the path specified: 'data\\visualization'
+2025-01-25 15:45:18,282 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'

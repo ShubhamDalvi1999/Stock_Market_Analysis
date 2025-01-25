@@ -1,0 +1,1277 @@
+2025-01-12 20:37:54,564 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:37:54,576 - data_visualization - INFO - Loading data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:37:54,594 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 20:37:54,594 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:37:54,595 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:37:54,596 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 20:37:55,985 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:37:55,992 - data_visualization - INFO - Loading data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:37:55,998 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 20:37:55,999 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:37:55,999 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:38:04,326 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 20:38:04,824 - data_visualization - INFO - Updating price chart for FUTSTK - AARTIIND
+2025-01-12 20:38:04,861 - data_visualization - ERROR - Error updating price chart: 'OPEN'
+2025-01-12 20:38:19,271 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 20:38:19,282 - data_visualization - INFO - Updating price chart for FUTIDX - BANKNIFTY
+2025-01-12 20:38:19,286 - data_visualization - ERROR - Error updating price chart: 'OPEN'
+2025-01-12 20:46:08,757 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:46:08,764 - data_visualization - INFO - Loading current data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:46:08,767 - data_visualization - INFO - Loading previous data from Filtered_20250102_NSEFO.csv
+2025-01-12 20:46:08,772 - data_visualization - ERROR - Error loading data: 'OPEN'
+2025-01-12 20:46:08,773 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:50:30,671 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:50:30,678 - data_visualization - INFO - Loading current data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:50:30,682 - data_visualization - INFO - Loading previous data from Filtered_20250102_NSEFO.csv
+2025-01-12 20:50:30,686 - data_visualization - ERROR - Error loading data: 'OPEN'
+2025-01-12 20:50:30,686 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:50:30,688 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:50:30,688 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 20:50:32,120 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:50:32,128 - data_visualization - INFO - Loading current data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:50:32,132 - data_visualization - INFO - Loading previous data from Filtered_20250102_NSEFO.csv
+2025-01-12 20:50:32,134 - data_visualization - ERROR - Error loading data: 'OPEN'
+2025-01-12 20:50:32,135 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:50:32,135 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:52:22,150 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:52:22,158 - data_visualization - INFO - Loading current data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:52:22,161 - data_visualization - INFO - Loading previous data from Filtered_20250102_NSEFO.csv
+2025-01-12 20:52:22,181 - data_visualization - INFO - Successfully loaded 228 current records and 228 previous records
+2025-01-12 20:52:22,181 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:52:22,183 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:53:39,198 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:53:39,206 - data_visualization - INFO - Loading current data from Filtered_20250103_NSEFO.csv
+2025-01-12 20:53:39,209 - data_visualization - INFO - Loading previous data from Filtered_20250102_NSEFO.csv
+2025-01-12 20:53:39,216 - data_visualization - INFO - Successfully loaded 228 current records and 228 previous records
+2025-01-12 20:53:39,216 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:53:39,217 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:55:28,489 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:55:28,497 - data_visualization - ERROR - No processed analysis or summary files found
+2025-01-12 20:55:28,499 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:55:28,500 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 20:58:43,897 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 20:58:43,904 - data_visualization - ERROR - No processed analysis or summary files found
+2025-01-12 20:58:43,906 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 20:58:43,907 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:02:35,725 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 21:02:35,732 - data_visualization - ERROR - No processed analysis or summary files found
+2025-01-12 21:02:35,733 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 21:02:35,734 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:02:35,735 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 21:02:36,472 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 21:02:36,479 - data_visualization - ERROR - No processed analysis or summary files found
+2025-01-12 21:02:36,481 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 21:02:36,482 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:02:37,558 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 21:02:37,568 - data_visualization - ERROR - No processed analysis or summary files found
+2025-01-12 21:02:37,569 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 21:02:37,570 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:04:16,215 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 21:04:16,216 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 21:04:16,223 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 21:04:16,224 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 21:04:16,229 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 21:04:16,229 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 21:04:16,234 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 21:04:16,234 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 21:04:16,234 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 21:04:16,234 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 21:04:16,235 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:04:16,235 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 21:04:16,390 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:10:28,109 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:10:28,120 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:10:28,120 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:10:28,128 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:10:28,128 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:10:28,131 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:10:28,131 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:10:28,131 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:10:28,131 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:10:28,132 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:10:28,132 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:10:39,077 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:26:58,790 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:26:58,790 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:26:58,802 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:26:58,802 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:26:58,806 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:26:58,811 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:26:58,811 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:26:58,812 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:26:58,812 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:26:58,812 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:26:58,812 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:26:58,968 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:27:26,715 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:28:18,019 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:28:18,023 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:28:18,027 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:28:18,032 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:28:18,032 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:28:18,036 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:28:18,036 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:28:18,036 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:28:18,036 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:28:18,041 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:28:18,042 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:28:18,042 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:28:18,173 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:28:23,431 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:28:27,937 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:28:31,072 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:28:32,688 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:28:37,316 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:28:43,043 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:30:17,954 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:30:17,954 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:30:17,962 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:30:17,966 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:30:17,966 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:30:17,970 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:30:17,972 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:30:17,972 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:30:17,975 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:30:17,975 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:30:17,975 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:30:17,975 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:30:18,138 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:31:15,532 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:15,532 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:15,539 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:15,539 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:15,544 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:15,544 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:15,548 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:15,548 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:15,548 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:15,548 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:15,548 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:15,548 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:15,713 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:31:27,730 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:31:47,642 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:47,648 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:47,652 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:47,657 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:47,657 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:47,657 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:47,674 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:47,682 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:47,686 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:47,692 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:47,692 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:47,694 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:47,853 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:31:50,488 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:50,502 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:50,504 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:50,512 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:50,512 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:50,513 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:50,537 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:31:50,546 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:31:50,550 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:31:50,554 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:31:50,554 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:31:50,554 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:31:50,695 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:33:57,914 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:34:17,949 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:34:17,958 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:34:17,962 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:34:17,965 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:34:17,965 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:34:17,966 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:34:18,094 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:34:18,102 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:34:18,103 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:34:18,110 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:34:18,110 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:34:18,112 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:34:18,252 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:36:11,490 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:36:11,499 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:36:11,503 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:36:11,507 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:36:11,508 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:36:11,508 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:36:11,508 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 22:36:12,978 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:36:12,990 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:36:12,994 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:36:12,998 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:36:12,998 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:36:12,998 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:36:38,323 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:37:06,940 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:37:31,951 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:37:31,959 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:37:31,963 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:37:31,966 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:37:31,966 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:37:31,968 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:37:32,098 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:37:48,068 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:38:36,108 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:38:36,114 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:38:36,118 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:38:36,126 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:38:36,126 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:38:36,128 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:38:36,332 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 22:39:01,138 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:39:01,147 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:39:01,151 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:39:01,154 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:39:01,155 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:39:01,160 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:39:01,541 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:39:05,795 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:39:05,803 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:39:05,808 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:39:05,812 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:39:05,812 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:39:05,812 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:39:06,002 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:40:13,820 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:40:13,828 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:40:13,832 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:40:13,838 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:40:13,838 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:40:13,841 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:40:14,070 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:40:25,796 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:40:25,800 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:40:25,807 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:40:25,808 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:40:25,808 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:40:25,812 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:40:25,961 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:42:22,110 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:42:22,118 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:42:22,124 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:42:22,126 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:42:22,126 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:42:22,128 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:42:22,530 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:45:58,981 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:45:58,988 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:45:58,989 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:45:58,993 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:45:58,993 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:45:58,998 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:45:59,183 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:46:04,698 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:46:04,704 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:46:04,708 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:46:04,712 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:46:04,712 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:46:04,717 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:46:05,038 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:46:34,408 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:46:34,414 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:46:34,418 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:46:34,422 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:46:34,422 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:46:34,422 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:46:35,044 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:47:00,568 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:47:00,581 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:47:00,585 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:47:00,589 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:47:00,589 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:47:00,593 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:47:17,243 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:47:17,252 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:47:17,256 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:47:17,261 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:47:17,261 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:47:17,264 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:47:39,054 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 22:47:40,981 - data_visualization - INFO - Loading analysis file: Processed_20250112_Analysis.csv
+2025-01-12 22:47:40,986 - data_visualization - INFO - Loading summary file: Summary_20250112.csv
+2025-01-12 22:50:10,818 - data_visualization - INFO - Loading analysis file: Processed_20250112_Analysis.csv
+2025-01-12 22:50:10,822 - data_visualization - INFO - Loading summary file: Summary_20250112.csv
+2025-01-12 22:57:36,718 - INFO - Loading analysis file: Processed_20250112_Analysis.csv
+2025-01-12 22:57:36,721 - INFO - Loading summary file: Summary_20250112.csv
+2025-01-12 22:57:36,728 - INFO - Loaded 228 records from analysis file
+2025-01-12 22:57:36,728 - INFO - Loaded summary data with keys: ['Metric', 'Value']
+2025-01-12 22:57:36,741 - INFO - Initialized Dash application
+2025-01-12 22:57:36,745 - INFO - Set up dashboard layout
+2025-01-12 22:57:36,745 - INFO - Registered dashboard callbacks
+2025-01-12 22:57:36,745 - INFO - Starting dashboard server at http://127.0.0.1:8050/
+2025-01-12 22:57:36,748 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 22:57:38,518 - INFO - Loading analysis file: Processed_20250112_Analysis.csv
+2025-01-12 22:57:38,518 - INFO - Loading summary file: Summary_20250112.csv
+2025-01-12 22:57:38,522 - INFO - Loaded 228 records from analysis file
+2025-01-12 22:57:38,522 - INFO - Loaded summary data with keys: ['Metric', 'Value']
+2025-01-12 22:57:38,531 - INFO - Initialized Dash application
+2025-01-12 22:57:38,535 - INFO - Set up dashboard layout
+2025-01-12 22:57:38,535 - INFO - Registered dashboard callbacks
+2025-01-12 22:57:38,535 - INFO - Starting dashboard server at http://127.0.0.1:8050/
+2025-01-12 22:57:44,563 - INFO - Updated symbol dropdown with 5 options for FUTIDX
+2025-01-12 22:57:44,563 - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 22:57:45,219 - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 22:57:46,019 - INFO - Updated price chart for FUTIDX - NIFTY
+2025-01-12 22:57:46,023 - INFO - Updated OI chart for FUTIDX - NIFTY
+2025-01-12 22:59:46,003 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 22:59:46,003 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 22:59:46,003 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 22:59:46,009 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 22:59:46,019 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 22:59:46,019 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 22:59:47,030 - callbacks - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 22:59:47,037 - callbacks - INFO - Updated symbol dropdown with 5 options for FUTIDX
+2025-01-12 22:59:47,098 - callbacks - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 22:59:47,510 - callbacks - INFO - Updated price chart for FUTIDX - NIFTY
+2025-01-12 22:59:47,512 - callbacks - INFO - Updated OI chart for FUTIDX - NIFTY
+2025-01-12 23:00:28,822 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:00:28,822 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:00:28,822 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:00:28,829 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:00:28,841 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:00:28,845 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:00:39,104 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:00:39,105 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:00:39,165 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:01:48,946 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:01:48,946 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:01:48,946 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:01:48,950 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:01:48,962 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:01:48,965 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:01:51,555 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:01:51,556 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:01:51,597 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:01:53,842 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:01:53,845 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:01:54,371 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:02:12,562 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:02:12,566 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:02:12,566 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:02:12,570 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:02:12,578 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:02:12,580 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:02:12,583 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 23:02:13,980 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:02:13,980 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:02:13,980 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:02:13,985 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:02:13,989 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:02:13,995 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:02:14,135 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:02:14,135 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:02:14,168 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:03:48,162 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:03:48,165 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:03:48,165 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:03:48,166 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:03:48,175 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:03:48,175 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:04:37,811 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:04:37,811 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:04:37,811 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:04:37,819 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:04:37,825 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:04:37,828 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:04:39,080 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:04:39,085 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:04:39,145 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:04:48,404 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:04:48,404 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:04:48,404 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:04:48,408 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:04:48,415 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:04:48,417 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:05:05,725 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:05:05,725 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:05:05,725 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:05:05,729 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:05:05,737 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:05:05,741 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:05:05,741 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 23:05:07,108 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:05:07,108 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:05:07,108 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:05:07,115 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:05:07,121 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:05:07,121 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:05:09,035 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:05:09,035 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:05:09,035 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:05:09,037 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:05:09,045 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:05:09,045 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:05:15,178 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:05:15,180 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:05:15,228 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:05:17,640 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:05:17,640 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:05:17,885 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:08:48,682 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:08:48,682 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:08:48,682 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:08:48,682 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:08:48,682 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:08:48,682 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:08:48,686 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:08:48,686 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:08:48,699 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:08:48,699 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:08:48,699 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:08:48,703 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:08:59,497 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:08:59,497 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:08:59,497 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:08:59,505 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:08:59,511 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:08:59,511 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:08:59,511 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:08:59,511 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:08:59,515 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:08:59,515 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:08:59,528 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:08:59,530 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:09:39,118 - data_visualization - ERROR - Error updating pattern distribution: 'PATTERN'
+2025-01-12 23:09:39,118 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:09:39,195 - data_visualization - ERROR - Error updating buildup analysis: 'PATTERN'
+2025-01-12 23:09:58,523 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:09:58,523 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:09:58,523 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:09:58,527 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:09:58,535 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:09:58,538 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:09:58,571 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:09:58,571 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:09:58,571 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:09:58,575 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:09:58,591 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:09:58,595 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:10:32,525 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:10:32,525 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:10:32,525 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:10:32,525 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:10:32,525 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:10:32,525 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:10:32,529 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:10:32,529 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:10:32,550 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:10:32,550 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:10:32,555 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:10:32,555 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:10:39,051 - data_visualization - ERROR - Missing required columns: ['PATTERN']
+2025-01-12 23:10:39,051 - data_visualization - ERROR - No data available for symbol dropdown
+2025-01-12 23:10:39,054 - data_visualization - ERROR - Missing required columns: ['PATTERN']
+2025-01-12 23:10:39,055 - data_visualization - ERROR - No data available for pattern distribution
+2025-01-12 23:10:44,588 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:10:44,588 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:10:44,588 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:10:44,592 - data_visualization - ERROR - Missing required columns in analysis data: ['PATTERN']
+2025-01-12 23:10:44,601 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:10:44,601 - data_visualization - ERROR - Error starting dashboard: 'INSTRUMENT'
+2025-01-12 23:10:44,609 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:10:44,609 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:10:44,609 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:10:44,614 - data_visualization - ERROR - Missing required columns in analysis data: ['PATTERN']
+2025-01-12 23:10:44,622 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:10:44,622 - data_visualization - ERROR - Error starting dashboard: 'INSTRUMENT'
+2025-01-12 23:17:08,521 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:17:08,521 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:17:08,521 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:17:08,526 - data_visualization - ERROR - Missing required columns in analysis data: ['PATTERN']
+2025-01-12 23:17:08,535 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:17:08,535 - data_visualization - ERROR - Error starting dashboard: 'INSTRUMENT'
+2025-01-12 23:19:00,679 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:19:00,679 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:19:00,679 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:19:00,684 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:19:00,692 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:19:00,694 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:19:00,694 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 23:19:02,482 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:19:02,482 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:19:02,482 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:19:02,486 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:19:02,494 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:19:02,494 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:19:59,569 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:19:59,569 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:19:59,569 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:19:59,575 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:19:59,584 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:19:59,584 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:19:59,586 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-12 23:20:00,986 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:20:00,986 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:20:00,986 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:20:00,990 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:20:00,998 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:20:00,998 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:20:03,148 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:20:04,247 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:20:04,272 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:21:34,956 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:21:34,956 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:21:34,956 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:21:34,962 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:21:34,971 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:21:34,975 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:21:35,276 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:21:37,845 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:21:37,845 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:21:37,845 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:21:37,854 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:21:37,862 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:21:37,866 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:21:39,059 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:21:39,598 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:21:39,620 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:21:47,455 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:21:47,455 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:21:47,455 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:21:47,459 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:21:47,467 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:21:47,469 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:21:48,032 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:21:48,509 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:21:48,524 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:24:57,151 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:24:57,151 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:24:57,151 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:24:57,161 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:24:57,172 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:24:57,174 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:24:58,399 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:24:59,173 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:24:59,190 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:26:53,737 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:26:53,737 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:26:53,737 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:26:53,743 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:26:53,755 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:26:53,755 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:26:54,070 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:26:54,791 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:26:54,809 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:27:19,636 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:27:19,636 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:27:19,636 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:27:19,640 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:27:19,648 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:27:19,648 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:27:19,805 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:27:20,412 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:27:20,437 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:28:25,671 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:28:25,671 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:28:25,675 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:28:25,675 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:28:25,685 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:28:25,688 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:28:25,841 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:28:26,350 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:28:26,382 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:28:50,886 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:28:50,908 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:28:51,313 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:29:08,044 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:29:08,055 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:29:08,642 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:29:40,008 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:29:40,008 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:29:40,008 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:29:40,012 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:29:40,020 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:29:40,024 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:29:40,749 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:29:41,300 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:29:41,485 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:31:08,720 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:31:08,720 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:31:08,720 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:31:08,734 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:31:08,741 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:31:08,744 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:31:08,936 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:31:09,639 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:31:09,657 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:31:17,338 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:31:17,338 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:31:17,338 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:31:17,342 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:31:17,351 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:31:17,351 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:31:17,491 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:31:17,959 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:31:17,978 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:31:58,067 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:31:58,067 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:31:58,067 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:31:58,072 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:31:58,080 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:31:58,080 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:31:58,309 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:31:58,918 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:31:58,939 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:32:03,640 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:32:03,640 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:32:03,640 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:32:03,645 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:32:03,655 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:32:03,658 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:32:04,275 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:32:04,774 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:32:04,796 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:35:01,944 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:35:01,944 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:35:01,944 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:35:01,948 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:35:01,957 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:35:01,957 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:35:39,237 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:35:41,441 - data_visualization - INFO - Updated pattern distribution for FUTIDX
+2025-01-12 23:35:41,545 - data_visualization - INFO - Updated buildup analysis for FUTIDX - NIFTY
+2025-01-12 23:36:09,848 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:36:09,848 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:36:09,848 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:36:09,856 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:36:09,869 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:36:09,874 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:36:38,005 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:36:38,007 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:36:38,007 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:36:38,013 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:36:38,026 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:36:38,030 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:36:39,198 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:36:44,510 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:39:19,974 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-12 23:44:30,488 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:44:38,392 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:44:38,393 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:44:38,393 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:44:38,397 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:44:38,407 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:44:38,408 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:44:38,577 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:45:04,098 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:45:04,099 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:45:04,099 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:45:04,103 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:45:04,111 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:45:04,113 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:45:04,571 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:45:07,710 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:45:07,710 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:45:07,710 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:45:07,715 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:45:07,722 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:45:07,724 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:45:07,863 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:45:30,440 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:45:30,440 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:45:30,440 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:45:30,444 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:45:30,453 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:45:30,455 - data_visualization - INFO - Starting dashboard server...
+2025-01-12 23:45:31,567 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-12 23:50:27,883 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:50:27,883 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:50:27,883 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:50:27,887 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:50:27,895 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:50:27,896 - data_visualization - ERROR - Error starting dashboard: module 'dash.dcc' has no attribute 'Switch'
+2025-01-12 23:57:55,902 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:57:55,902 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:57:55,902 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:57:55,916 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:57:55,928 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:57:55,928 - data_visualization - ERROR - Error starting dashboard: module 'dash.dcc' has no attribute 'Switch'
+2025-01-12 23:58:13,649 - data_visualization - INFO - Initializing Dash application...
+2025-01-12 23:58:13,649 - data_visualization - INFO - Loading analysis data from Processed_20250112_Analysis.csv
+2025-01-12 23:58:13,649 - data_visualization - INFO - Loading summary data from Summary_20250112.csv
+2025-01-12 23:58:13,653 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-12 23:58:13,661 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-12 23:58:13,662 - data_visualization - ERROR - Error starting dashboard: module 'dash.dcc' has no attribute 'Switch'
+2025-01-23 23:43:23,692 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:43:23,694 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:43:23,694 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:43:23,707 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:43:23,720 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:43:23,724 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:43:23,724 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-23 23:43:25,434 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:43:25,434 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:43:25,434 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:43:25,437 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:43:25,445 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:43:25,450 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:43:28,807 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:43:47,204 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:50:02,582 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:50:02,582 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:50:02,582 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:50:02,596 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:50:02,609 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:50:02,614 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:50:03,048 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:50:25,461 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:50:25,461 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:50:25,461 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:50:25,468 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:50:25,477 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:50:25,477 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:50:25,719 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:50:27,268 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:50:27,268 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:50:27,268 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:50:27,272 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:50:27,280 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:50:27,282 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:50:27,284 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-23 23:50:28,824 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:50:28,826 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:50:28,826 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:50:28,830 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:50:28,838 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:50:28,843 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:50:35,664 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:50:46,884 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:51:30,757 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-23 23:57:30,085 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:57:30,085 - data_visualization - INFO - Initializing Dash application...
+2025-01-23 23:57:30,085 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:57:30,085 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:57:30,085 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-23 23:57:30,085 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-23 23:57:30,098 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:57:30,098 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-23 23:57:30,115 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:57:30,115 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-23 23:57:30,119 - data_visualization - INFO - Starting dashboard server...
+2025-01-23 23:57:30,560 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:57:46,446 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-23 23:58:17,459 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-23 23:58:29,936 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:00:01,307 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:00:01,307 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:00:01,307 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:00:01,316 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:00:01,324 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:00:01,328 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:00:01,816 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:00:47,744 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:07:22,071 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:07:22,071 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:07:22,071 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:07:22,082 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:07:22,094 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:07:22,099 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:07:22,345 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:07:38,743 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:07:38,745 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:07:38,745 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:07:38,749 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:07:38,757 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:07:38,759 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:07:38,931 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:07:46,483 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:10:46,189 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:11:29,595 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:11:29,595 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:11:29,595 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:11:29,599 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:11:29,608 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:11:29,610 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:11:29,760 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:11:46,162 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:12:26,722 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:12:26,722 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:12:26,722 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:12:26,727 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:12:26,737 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:12:26,739 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:12:27,131 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:12:38,793 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:12:38,793 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:12:38,793 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:12:38,798 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:12:38,807 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:12:38,809 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:12:38,957 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:12:46,115 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:12:54,740 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 00:13:46,158 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:15:13,175 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:15:15,578 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:15:32,687 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:15:46,091 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:16:15,636 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:18:18,956 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:18:18,956 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:18:18,956 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:18:18,963 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:18:18,974 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:18:18,977 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:18:19,320 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:18:20,068 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:18:20,075 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:18:41,790 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:18:41,790 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:18:41,790 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:18:41,795 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:18:41,803 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:18:41,805 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:18:42,174 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:18:43,527 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:21:39,578 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:21:39,579 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:21:39,579 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:21:39,587 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:21:39,596 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:21:39,597 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:21:39,896 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:21:39,973 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:21:39,973 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:21:45,572 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:21:46,582 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:21:46,582 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:21:49,169 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:21:49,840 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:21:49,847 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:21:54,757 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:21:54,909 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:21:54,911 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:22:38,722 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:22:38,722 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:22:38,722 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:22:38,727 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:22:38,736 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:22:38,739 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:22:39,404 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:22:39,973 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:22:39,979 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:23:05,163 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:23:17,866 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:23:18,270 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:23:18,271 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:23:19,429 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:23:19,622 - data_visualization - ERROR - Error updating OI chart: 'OI_CHANGE'
+2025-01-24 00:23:19,626 - data_visualization - ERROR - Error updating buildup analysis: 'OI_CHANGE'
+2025-01-24 00:25:31,806 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:25:31,807 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:25:31,807 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:25:31,814 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:25:31,823 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:25:31,825 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:25:32,040 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:25:46,794 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:25:46,795 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:25:46,795 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:25:46,799 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:25:46,808 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:25:46,810 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:25:46,995 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:25:50,031 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:25:54,886 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:27:30,181 - data_visualization - INFO - Initializing Dash application...
+2025-01-24 00:27:30,182 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:27:30,182 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:27:30,186 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:27:30,195 - data_visualization - INFO - Setting up dashboard layout...
+2025-01-24 00:27:30,197 - data_visualization - INFO - Starting dashboard server...
+2025-01-24 00:27:30,529 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:27:54,864 - data_visualization - INFO - Loading analysis data from Processed_20250123_Analysis.csv
+2025-01-24 00:27:54,864 - data_visualization - INFO - Loading summary data from Summary_20250123.csv
+2025-01-24 00:27:54,869 - data_visualization - INFO - Successfully loaded 228 records
+2025-01-24 00:31:12,275 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 00:39:52,411 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 00:39:52,415 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-24 00:39:54,228 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 00:39:56,236 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 00:40:06,758 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 00:42:43,011 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 00:42:43,258 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:01:31,271 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:01:31,503 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:03:15,786 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:03:16,208 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:07:11,926 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:07:12,081 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:07:19,554 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:09:27,208 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:09:28,148 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:10:11,139 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:10:47,206 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:11:12,583 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:11:14,125 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:11:20,715 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 01:11:25,648 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:11:36,604 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:11:44,103 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:12:15,485 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 01:13:05,569 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:13:05,743 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:16:35,213 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:20:07,797 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:20:07,967 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:21:14,161 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:21:14,313 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:23:11,540 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:23:25,525 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:23:25,702 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:23:28,757 - data_visualization - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 01:23:46,875 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:23:46,875 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-24 01:23:48,352 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:23:48,546 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:23:50,155 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:35:16,120 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:37:22,959 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:37:22,963 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-24 01:37:24,626 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:37:27,043 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:37:27,062 - data_visualization - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:37:34,013 - data_visualization - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:37:42,236 - data_visualization - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:39:30,567 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:39:30,744 - data_visualization - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:39:30,746 - data_visualization - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:40:14,787 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:46:03,282 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:46:36,829 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:46:36,983 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:46:38,912 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:48:43,759 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:48:43,962 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:48:43,963 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:48:44,016 - callbacks - ERROR - Error updating buildup analysis: 'OI_PCT_CHANGE'
+2025-01-24 01:49:03,540 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:49:03,705 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:49:03,705 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:49:03,755 - callbacks - ERROR - Error updating buildup analysis: 'OI_PCT_CHANGE'
+2025-01-24 01:49:14,073 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:49:14,770 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:50:06,400 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:50:06,551 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:50:06,555 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:50:13,131 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:50:14,465 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:50:14,468 - callbacks - ERROR - Error updating stock lists: 'OI_PCT_CHANGE'
+2025-01-24 01:56:49,029 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:56:49,406 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 01:57:16,112 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 01:57:16,260 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:04:42,458 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:11:42,673 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 02:11:43,123 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:11:46,204 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:12:46,288 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:13:21,683 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 02:13:43,778 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 02:13:45,604 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:13:47,659 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:15:47,429 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:15:47,675 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:16:51,233 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:18:48,029 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:19:48,292 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:22:28,276 - callbacks - INFO - Updated symbol dropdown with 223 symbols for FUTSTK
+2025-01-24 02:22:31,005 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:25:46,983 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:27:40,070 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:27:46,054 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:29:46,000 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:32:26,573 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:32:46,007 - callbacks - INFO - Updated symbol dropdown with 5 symbols for FUTIDX
+2025-01-24 02:36:38,993 - data_visualization - INFO - Successfully loaded 228 records from analysis DataFrame
+2025-01-24 02:36:38,996 - data_visualization - INFO - Successfully loaded summary data
+2025-01-24 03:00:07,861 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 03:08:09,969 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-24 03:09:22,587 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-25 15:26:14,140 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-25 15:27:00,778 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-25 15:27:00,781 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-25 15:27:02,654 - data_visualization - INFO - Successfully loaded 228 records from analysis data
+2025-01-25 15:41:19,545 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:41:19,545 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:41:19,555 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-25 15:41:20,937 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:41:20,937 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:42:54,229 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:42:54,229 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:43:08,361 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:43:08,362 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:43:29,473 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:43:29,473 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:45:18,279 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:45:18,279 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:46:19,101 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:46:19,101 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:47:35,850 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:47:35,850 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:48:04,453 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:48:04,455 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:48:14,067 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:48:14,067 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:48:25,760 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:48:25,760 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:51:30,803 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:51:30,803 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:51:48,309 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:51:48,309 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:52:22,915 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:52:22,917 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:54:35,432 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:54:35,433 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:54:53,042 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:54:53,042 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:55:04,969 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:55:04,970 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:57:10,377 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:57:10,377 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:57:26,976 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:57:26,976 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:59:14,152 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:59:14,152 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:59:14,341 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 15:59:14,343 - root - INFO - Successfully loaded 228 records
+2025-01-25 15:59:40,853 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 15:59:40,853 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 15:59:41,074 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 15:59:41,077 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:00:21,961 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 16:00:21,962 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 16:00:22,922 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:00:22,925 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:09,712 - data_visualization - INFO - Successfully loaded 228 records from Processed_20250123_Analysis.csv
+2025-01-25 16:02:09,712 - data_visualization - INFO - Data overview contains 7 metrics
+2025-01-25 16:02:10,895 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,895 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,895 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,898 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:10,902 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:10,902 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:10,958 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,958 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,958 - root - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:10,962 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:10,962 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:10,965 - root - INFO - Successfully loaded 228 records
+2025-01-25 16:02:33,685 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:33,689 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:02:33,689 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,886 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,886 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,886 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,892 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,892 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,893 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,955 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,959 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,959 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:34,959 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,965 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:34,968 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,565 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,569 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:02:51,573 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,755 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,755 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,755 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,759 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,759 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,764 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,815 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,815 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,815 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:02:51,819 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,823 - INFO - Successfully loaded 228 records
+2025-01-25 16:02:51,825 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,475 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,479 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:03:34,483 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,876 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,880 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,880 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,880 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,885 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,888 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,949 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,949 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,949 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:34,958 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,958 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:34,958 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:49,065 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:49,065 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:49,069 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:49,082 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:49,155 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:49,155 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:49,159 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:49,159 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:49,179 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:49,194 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:51,337 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:51,341 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:51,341 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:51,342 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:51,354 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:51,366 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:57,315 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:57,315 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:57,319 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:57,319 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:57,335 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:57,335 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:57,335 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:57,335 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:57,385 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:57,400 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:59,147 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:59,147 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:59,147 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:03:59,155 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:59,157 - INFO - Successfully loaded 228 records
+2025-01-25 16:03:59,176 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,487 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,487 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,487 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,491 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,497 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,499 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,905 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,905 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,905 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:16:46,905 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,917 - INFO - Successfully loaded 228 records
+2025-01-25 16:16:46,930 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:40,209 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:40,211 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:40,213 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:40,222 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:40,288 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:40,292 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:40,292 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:40,295 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:40,309 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:40,315 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:58,222 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:58,222 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:58,225 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:18:58,226 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:58,238 - INFO - Successfully loaded 228 records
+2025-01-25 16:18:58,238 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:13,041 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:13,045 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:16,185 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:16,185 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:16,185 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:16,186 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:16,199 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:16,210 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:20,361 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:20,365 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:24,321 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:24,321 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:24,325 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:24,325 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:24,341 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:24,341 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:24,341 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:24,345 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:24,355 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:24,369 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:27,399 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:27,399 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:27,404 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:27,405 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:27,415 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:27,428 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:29,868 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:29,868 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:29,868 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:19:29,872 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:29,883 - INFO - Successfully loaded 228 records
+2025-01-25 16:19:29,895 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,246 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,250 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:20:28,250 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,395 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,397 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,397 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,397 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,401 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,401 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,456 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,456 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,461 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:20:28,465 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,469 - INFO - Successfully loaded 228 records
+2025-01-25 16:20:28,470 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:15,382 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:15,390 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:22:15,390 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:16,390 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:16,391 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:16,391 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:16,391 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:16,395 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:16,400 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:18,099 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:18,103 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:18,105 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:22:18,105 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:18,108 - INFO - Successfully loaded 228 records
+2025-01-25 16:22:18,112 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:21,606 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:21,619 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:40:21,619 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,140 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,140 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,144 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,144 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,149 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,152 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,204 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,207 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,211 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:40:29,211 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,215 - INFO - Successfully loaded 228 records
+2025-01-25 16:40:29,215 - INFO - Successfully loaded 228 records
+2025-01-25 16:47:41,386 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:47:41,392 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:47:41,394 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,222 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,224 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,224 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,226 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,226 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,231 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,330 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,335 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,339 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,339 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:48:29,345 - INFO - Successfully loaded 228 records
+2025-01-25 16:48:29,350 - INFO - Successfully loaded 228 records
+2025-01-25 16:51:21,019 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 16:51:21,026 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 16:51:21,028 - INFO - Successfully loaded 228 records

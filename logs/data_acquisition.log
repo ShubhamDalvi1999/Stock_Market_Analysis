@@ -1,0 +1,151 @@
+2025-01-12 20:14:42,971 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\src\data_acquisition\chromedriver-win64\chromedriver.exe
+2025-01-12 20:14:42,971 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\src\data_acquisition\temp_downloads
+2025-01-12 20:14:42,971 - data_acquisition - INFO - Destination folder: D:\Apache Spark Project Stock market analysis\src\data_acquisition\download_automation\Raw_Files
+2025-01-12 20:14:42,971 - data_acquisition - INFO - Clearing old files from Raw_Files folder...
+2025-01-12 20:15:26,130 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-12 20:15:26,132 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-12 20:15:26,132 - data_acquisition - INFO - Destination folder: D:\Apache Spark Project Stock market analysis\download_automation\Raw_Files
+2025-01-12 20:15:26,132 - data_acquisition - INFO - Clearing old files from Raw_Files folder...
+2025-01-12 20:15:28,388 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-12 20:15:33,004 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/a66a9eefe097b4e80c028e21e9d16db9
+2025-01-12 20:15:37,058 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002848144DAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a66a9eefe097b4e80c028e21e9d16db9
+2025-01-12 20:15:41,125 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002848144E150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a66a9eefe097b4e80c028e21e9d16db9
+2025-01-12 20:15:49,289 - data_acquisition - INFO - Chrome driver closed
+2025-01-12 20:15:49,289 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-01-12 20:24:22,956 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-12 20:24:22,956 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-12 20:24:22,956 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-12 20:24:22,956 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-12 20:24:22,956 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-12 20:24:25,091 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-12 20:24:25,091 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-12 20:24:25,093 - data_acquisition - INFO - Archived: 20240710_NSEFO.csv
+2025-01-12 20:24:25,093 - data_acquisition - INFO - Archived: 20240711_NSEFO.csv
+2025-01-12 20:24:25,093 - data_acquisition - INFO - Archived: 20250102_NSEFO.csv
+2025-01-12 20:24:25,093 - data_acquisition - INFO - Archived: 20250103_NSEFO.csv
+2025-01-12 20:24:27,286 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-12 20:24:32,315 - data_acquisition - INFO - Found 8 rows in table
+2025-01-12 20:24:32,365 - data_acquisition - INFO - Found link for date 30-12-2024
+2025-01-12 20:24:32,411 - data_acquisition - INFO - Found link for date 31-12-2024
+2025-01-12 20:24:32,435 - data_acquisition - INFO - Found link for date 01-01-2025
+2025-01-12 20:24:32,451 - data_acquisition - INFO - Found link for date 02-01-2025
+2025-01-12 20:24:32,475 - data_acquisition - INFO - Found link for date 03-01-2025
+2025-01-12 20:24:32,515 - data_acquisition - INFO - Found latest two files to download:
+2025-01-12 20:24:32,515 - data_acquisition - INFO - - 02-01-2025
+2025-01-12 20:24:32,515 - data_acquisition - INFO - - 03-01-2025
+2025-01-12 20:24:32,515 - data_acquisition - INFO - Downloading file for 02-01-2025
+2025-01-12 20:24:34,868 - data_acquisition - INFO - Successfully downloaded and moved 20250102_NSEFO.csv
+2025-01-12 20:24:34,868 - data_acquisition - INFO - Downloading file for 03-01-2025
+2025-01-12 20:24:36,096 - data_acquisition - INFO - Successfully downloaded and moved 20250103_NSEFO.csv
+2025-01-12 20:24:38,595 - data_acquisition - INFO - Chrome driver closed
+2025-01-12 20:24:38,595 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-01-23 23:25:40,884 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-23 23:25:40,884 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-23 23:25:40,884 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:25:40,884 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:25:40,884 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-23 23:25:44,629 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-23 23:25:44,629 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-23 23:25:44,629 - data_acquisition - INFO - Archived: 20250102_NSEFO.csv
+2025-01-23 23:25:44,633 - data_acquisition - INFO - Archived: 20250103_NSEFO.csv
+2025-01-23 23:25:46,964 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-23 23:25:51,993 - data_acquisition - INFO - Found 8 rows in table
+2025-01-23 23:25:52,056 - data_acquisition - INFO - Found link for date 13-01-2025
+2025-01-23 23:25:52,095 - data_acquisition - INFO - Found link for date 14-01-2025
+2025-01-23 23:25:52,129 - data_acquisition - INFO - Found link for date 15-01-2025
+2025-01-23 23:25:52,162 - data_acquisition - INFO - Found link for date 16-01-2025
+2025-01-23 23:25:52,200 - data_acquisition - INFO - Found link for date 17-01-2025
+2025-01-23 23:25:52,230 - data_acquisition - INFO - Found latest two files to download:
+2025-01-23 23:25:52,230 - data_acquisition - INFO - - 16-01-2025
+2025-01-23 23:25:52,230 - data_acquisition - INFO - - 17-01-2025
+2025-01-23 23:25:52,230 - data_acquisition - INFO - Downloading file for 16-01-2025
+2025-01-23 23:26:22,936 - data_acquisition - ERROR - Download failed for 20250116_NSEFO.csv
+2025-01-23 23:26:22,936 - data_acquisition - INFO - Downloading file for 17-01-2025
+2025-01-23 23:26:43,158 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239BC7A36E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8ee72781e4b83d0000c33475c7014bfb
+2025-01-23 23:26:47,220 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239BC7A3620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8ee72781e4b83d0000c33475c7014bfb
+2025-01-23 23:26:51,265 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239BC7A3800>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8ee72781e4b83d0000c33475c7014bfb
+2025-01-23 23:26:59,452 - data_acquisition - INFO - Chrome driver closed
+2025-01-23 23:26:59,452 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-01-23 23:30:24,345 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-23 23:30:24,345 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-23 23:30:24,345 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:30:24,345 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:30:24,345 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-23 23:30:27,505 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-23 23:30:27,505 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-23 23:30:50,614 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-23 23:30:55,650 - data_acquisition - INFO - Found 0 rows in table
+2025-01-23 23:30:55,650 - data_acquisition - ERROR - An error occurred: Could not find two files to download. Found only: 0
+2025-01-23 23:32:01,808 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-23 23:32:01,808 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-23 23:32:01,808 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:32:01,808 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:32:01,808 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-23 23:32:04,440 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-23 23:32:04,440 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-23 23:32:06,911 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-23 23:32:11,946 - data_acquisition - INFO - Found 8 rows in table
+2025-01-23 23:32:12,012 - data_acquisition - INFO - Found link for date 13-01-2025
+2025-01-23 23:32:12,047 - data_acquisition - INFO - Found link for date 14-01-2025
+2025-01-23 23:32:12,082 - data_acquisition - INFO - Found link for date 15-01-2025
+2025-01-23 23:32:12,119 - data_acquisition - INFO - Found link for date 16-01-2025
+2025-01-23 23:32:12,146 - data_acquisition - INFO - Found link for date 17-01-2025
+2025-01-23 23:32:12,179 - data_acquisition - INFO - Found latest two files to download:
+2025-01-23 23:32:12,179 - data_acquisition - INFO - - 16-01-2025
+2025-01-23 23:32:12,179 - data_acquisition - INFO - - 17-01-2025
+2025-01-23 23:32:12,179 - data_acquisition - INFO - Downloading file for 16-01-2025
+2025-01-23 23:32:21,871 - data_acquisition - INFO - Successfully downloaded and moved 20250116_NSEFO.csv
+2025-01-23 23:32:21,871 - data_acquisition - INFO - Downloading file for 17-01-2025
+2025-01-23 23:32:25,078 - data_acquisition - INFO - Successfully downloaded and moved 20250117_NSEFO.csv
+2025-01-23 23:32:27,549 - data_acquisition - INFO - Chrome driver closed
+2025-01-23 23:32:27,549 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-01-23 23:35:57,985 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-23 23:35:57,987 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-23 23:35:57,987 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-23 23:35:57,987 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-23 23:35:57,987 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-23 23:36:00,704 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-23 23:36:00,704 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-23 23:36:00,704 - data_acquisition - INFO - Archived: 20250116_NSEFO.csv
+2025-01-23 23:36:00,708 - data_acquisition - INFO - Archived: 20250117_NSEFO.csv
+2025-01-23 23:36:32,394 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-23 23:36:37,427 - data_acquisition - INFO - Found 8 rows in table
+2025-01-23 23:36:37,474 - data_acquisition - INFO - Found link for date 13-01-2025
+2025-01-23 23:36:37,511 - data_acquisition - INFO - Found link for date 14-01-2025
+2025-01-23 23:36:37,537 - data_acquisition - INFO - Found link for date 15-01-2025
+2025-01-23 23:36:37,569 - data_acquisition - INFO - Found link for date 16-01-2025
+2025-01-23 23:36:37,593 - data_acquisition - INFO - Found link for date 17-01-2025
+2025-01-23 23:36:37,617 - data_acquisition - INFO - Found latest two files to download:
+2025-01-23 23:36:37,617 - data_acquisition - INFO - - 16-01-2025
+2025-01-23 23:36:37,617 - data_acquisition - INFO - - 17-01-2025
+2025-01-23 23:36:37,617 - data_acquisition - INFO - Downloading file for 16-01-2025
+2025-01-23 23:36:55,076 - data_acquisition - INFO - Successfully downloaded and moved 20250116_NSEFO.csv
+2025-01-23 23:36:55,077 - data_acquisition - INFO - Downloading file for 17-01-2025
+2025-01-23 23:36:58,284 - data_acquisition - INFO - Successfully downloaded and moved 20250117_NSEFO.csv
+2025-01-23 23:37:00,753 - data_acquisition - INFO - Chrome driver closed
+2025-01-23 23:37:00,755 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-01-24 01:36:50,432 - data_acquisition - INFO - Using ChromeDriver path: D:\Apache Spark Project Stock market analysis\chromedriver-win64\chromedriver.exe
+2025-01-24 01:36:50,435 - data_acquisition - INFO - Downloads folder: D:\Apache Spark Project Stock market analysis\temp_downloads
+2025-01-24 01:36:50,435 - data_acquisition - INFO - Raw data directory: D:\Apache Spark Project Stock market analysis\data\raw
+2025-01-24 01:36:50,435 - data_acquisition - INFO - Processed data directory: D:\Apache Spark Project Stock market analysis\data\processed
+2025-01-24 01:36:50,436 - data_acquisition - INFO - Archive directory: D:\Apache Spark Project Stock market analysis\data\archive
+2025-01-24 01:36:53,439 - data_acquisition - INFO - Successfully initialized Chrome driver
+2025-01-24 01:36:53,439 - data_acquisition - INFO - Clearing old files from raw directory...
+2025-01-24 01:36:53,442 - data_acquisition - INFO - Archived: 20250116_NSEFO.csv
+2025-01-24 01:36:53,443 - data_acquisition - INFO - Archived: 20250117_NSEFO.csv
+2025-01-24 01:36:55,573 - data_acquisition - INFO - Opened URL: https://www.samco.in/bhavcopy-nse-bse-mcx
+2025-01-24 01:37:00,602 - data_acquisition - INFO - Found 8 rows in table
+2025-01-24 01:37:00,649 - data_acquisition - INFO - Found link for date 13-01-2025
+2025-01-24 01:37:00,678 - data_acquisition - INFO - Found link for date 14-01-2025
+2025-01-24 01:37:00,729 - data_acquisition - INFO - Found link for date 15-01-2025
+2025-01-24 01:37:00,759 - data_acquisition - INFO - Found link for date 16-01-2025
+2025-01-24 01:37:00,793 - data_acquisition - INFO - Found link for date 17-01-2025
+2025-01-24 01:37:00,823 - data_acquisition - INFO - Found latest two files to download:
+2025-01-24 01:37:00,823 - data_acquisition - INFO - - 16-01-2025
+2025-01-24 01:37:00,824 - data_acquisition - INFO - - 17-01-2025
+2025-01-24 01:37:00,824 - data_acquisition - INFO - Downloading file for 16-01-2025
+2025-01-24 01:37:03,457 - data_acquisition - INFO - Successfully downloaded and moved 20250116_NSEFO.csv
+2025-01-24 01:37:03,458 - data_acquisition - INFO - Downloading file for 17-01-2025
+2025-01-24 01:37:04,660 - data_acquisition - INFO - Successfully downloaded and moved 20250117_NSEFO.csv
+2025-01-24 01:37:08,766 - data_acquisition - INFO - Chrome driver closed
+2025-01-24 01:37:08,766 - data_acquisition - INFO - Cleaned up temporary downloads folder
