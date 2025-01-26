@@ -44,8 +44,9 @@ Stock Market Analysis Dashboard with Apache Spark and Plotly Dash
 
 ![p2](https://github.com/user-attachments/assets/13220c05-a327-44b3-8e4b-2e71c1c86c19)
 
-[p3](https://github.com/user-attachments/assets/80531bd8-1b52-403a-833b-efd4223797c1)
-[p4](https://github.com/user-attachments/assets/a3b79ee3-2831-4787-8241-5ad5697958bb)
+![p3](https://github.com/user-attachments/assets/80531bd8-1b52-403a-833b-efd4223797c1)
+
+![p4](https://github.com/user-attachments/assets/a3b79ee3-2831-4787-8241-5ad5697958bb)
 
 <br/>
 
