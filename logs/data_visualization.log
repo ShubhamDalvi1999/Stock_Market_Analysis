@@ -1326,3 +1326,83 @@
 2025-01-25 17:09:29,161 - INFO - Successfully loaded 228 records
 2025-01-25 17:09:29,163 - INFO - Successfully loaded 228 records
 2025-01-25 17:09:29,163 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:54,594 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:54,608 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:49:54,613 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:54,617 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-25 19:49:56,233 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:56,233 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:49:56,237 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,739 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,762 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,777 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,163 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,163 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,167 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,171 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,171 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,175 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:19,844 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:19,848 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:51:19,848 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,029 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,029 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,033 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,033 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,035 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,039 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,104 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,108 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,113 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,684 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,690 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:17,690 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,935 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,935 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,939 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,011 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,014 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,014 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,018 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,020 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,022 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,235 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,239 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:28,243 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,387 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,389 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,389 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,391 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,395 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,395 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,446 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,451 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,451 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,455 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,455 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,459 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:32,884 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:32,888 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:32,890 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,271 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,273 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,275 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,327 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,331 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,331 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,335 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,338 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,339 - INFO - Successfully loaded 228 records

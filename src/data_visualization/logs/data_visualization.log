@@ -67,3 +67,4 @@
 2025-01-25 15:45:18,282 - data_visualization - ERROR - Error loading data: [WinError 3] The system cannot find the path specified: 'data\\visualization'
 2025-01-25 19:40:25,636 - ERROR - No analysis files found
 2025-01-25 19:41:55,073 - ERROR - No analysis files found
+2025-01-25 19:45:40,455 - ERROR - No analysis files found

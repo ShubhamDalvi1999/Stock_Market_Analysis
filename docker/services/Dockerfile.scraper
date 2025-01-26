@@ -1,0 +1,78 @@
+# Build stage
+ARG PYTHON_VERSION
+FROM python:${PYTHON_VERSION} AS builder
+
+USER root
+
+# Copy requirements
+COPY requirements.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Runtime stage
+ARG PYTHON_VERSION
+FROM python:${PYTHON_VERSION} AS runtime
+
+USER root
+
+# Install system dependencies and Chrome
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    curl \
+    wget \
+    gnupg \
+    unzip \
+    xvfb \
+    && wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \
+    && echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list \
+    && apt-get update \
+    && apt-get install -y --no-install-recommends \
+        google-chrome-stable \
+    && CHROME_VERSION=$(google-chrome --version | awk '{ print $3 }' | cut -d'.' -f1) \
+    && CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION") \
+    && wget -q "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip" \
+    && unzip chromedriver_linux64.zip \
+    && mv chromedriver /usr/local/bin/ \
+    && chmod +x /usr/local/bin/chromedriver \
+    && rm -rf chromedriver_linux64.zip \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy installed dependencies from builder
+COPY --from=builder /usr/local/lib/python3.12/site-packages /usr/local/lib/python3.12/site-packages
+
+# Copy application code
+COPY src /app/src
+
+# Set proper permissions
+RUN chmod -R 755 /app/src
+
+# Create data directories
+RUN mkdir -p /app/data/raw /app/data/processed /app/logs \
+    && chmod -R 777 /app/data /app/logs
+
+# Set Chrome and Selenium options
+ENV CHROME_OPTIONS="--headless --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-software-rasterizer --disable-dev-shm-usage"
+ENV PYTHONUNBUFFERED=1
+ENV DISPLAY=:99
+
+# Create and switch to non-root user
+RUN useradd -m -s /bin/bash app \
+    && chown -R app:app /app
+
+USER app
+
+# Add a script to start Xvfb and the scraper
+COPY --chmod=755 <<EOF /app/start.sh
+#!/bin/bash
+Xvfb :99 -screen 0 1280x1024x24 -ac &
+python src/data_acquisition/scraper.py
+EOF
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD ps aux | grep "[p]ython.*scraper.py" || exit 1
+
+# Command to run the scraper
+CMD ["/app/start.sh"] 
