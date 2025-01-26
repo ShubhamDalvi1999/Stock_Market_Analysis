@@ -4,15 +4,26 @@ Stock Market Analysis Dashboard with Apache Spark and Plotly Dash
 </h2>
 
 
-<h3 align="center">
-<samp>&gt; Hey There!, I am
-<b><a target="blank" href="https://yourwebsite.com">[Your Name]</a></b>
-</samp>
-</h3>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a data engineer with a passion for big data, distributed computing, cloud solutions, and data visualization 」
+    <br>
+    <br>
+  </samp>
+</p>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spark+%7C+DataBricks+%7C+Power+BI+;Snowflake+%7C+Azure+%7C+AWS;3+yrs+of+IT+experience+as+Analyst+%40+;Accenture+;Passionate+Data+Engineer+" alt="Typing SVG" /></a>
+</div>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/shubham-dalvi-21603316b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/>
+ </a>
 </p>
 <br />
+
 
 <!-- About Section -->
 ## About the Project
