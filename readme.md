@@ -37,6 +37,13 @@ Stock Market Analysis Dashboard with Apache Spark and Plotly Dash
 </p>
 
 <br/>
+<br/>
+![p1](https://github.com/user-attachments/assets/2879b5bd-1d1a-4121-995e-252101931e56)
+![p2](https://github.com/user-attachments/assets/9d108df9-0629-4343-b9f3-9818fcc1a143)
+![p3](https://github.com/user-attachments/assets/80531bd8-1b52-403a-833b-efd4223797c1)
+![p4](https://github.com/user-attachments/assets/a3b79ee3-2831-4787-8241-5ad5697958bb)
+
+<br/>
 
 ## Skills and Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
