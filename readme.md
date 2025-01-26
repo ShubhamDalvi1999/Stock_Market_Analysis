@@ -26,10 +26,16 @@ Stock Market Analysis Dashboard with Apache Spark and Plotly Dash
 
 
 <!-- About Section -->
-## About the Project
-<p>
+# About Me
 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy solving data problems <br/><br/>
+ ❤️ &emsp; Passionate about big data technologies, cloud platforms, and data visualizations<br/><br/>
+ 📧 &emsp; Reach me: shubhamdworkmail@gmail.com<br/><br/>
 </p>
+
 <br/>
 
 ## Skills and Technologies
