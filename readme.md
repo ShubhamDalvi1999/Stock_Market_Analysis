@@ -202,7 +202,4 @@ python src/data_processing/transform_data.py
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-Feel free to contribute or reach out if you have any questions or suggestions!
+This project is licensed under the MIT License.
