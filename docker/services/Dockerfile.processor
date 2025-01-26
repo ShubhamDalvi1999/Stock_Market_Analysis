@@ -1,0 +1,48 @@
+# Build stage
+ARG SPARK_VERSION
+FROM apache/spark-py:${SPARK_VERSION} AS builder
+
+USER root
+
+# Verify Java installation
+RUN java -version
+
+# Set JAVA_HOME (if not already set by Spark image)
+ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+ENV PATH=$JAVA_HOME/bin:$PATH
+
+# Copy requirements
+COPY requirements.txt .
+
+# Install dependencies
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Runtime stage
+ARG SPARK_VERSION
+FROM apache/spark-py:${SPARK_VERSION} AS runtime
+
+# Copy installed dependencies from builder
+COPY --from=builder /usr/local/lib/python3/dist-packages /usr/local/lib/python3/dist-packages
+
+# Copy application code
+COPY src /app/src
+
+# Set proper permissions
+RUN chmod -R 755 /app/src
+
+# Set Spark configuration
+ENV SPARK_MASTER="local[*]" \
+    SPARK_DRIVER_MEMORY="2g" \
+    SPARK_EXECUTOR_MEMORY="2g" \
+    SPARK_WORKER_MEMORY="2g" \
+    SPARK_WORKER_CORES="2" \
+    SPARK_DRIVER_CORES="2" \
+    SPARK_HOME="/opt/spark" \
+    PATH="$SPARK_HOME/bin:$PATH"
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD ps aux | grep "[p]ython.*processor.py" || exit 1
+
+# Command to run the processor
+CMD ["python3", "src/data_processing/processor.py"] 
