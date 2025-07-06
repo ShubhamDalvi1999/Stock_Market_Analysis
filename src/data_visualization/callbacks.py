@@ -13,11 +13,20 @@ logger = logging.getLogger('data_visualization')
 def load_latest_data():
     """Load the latest analysis data."""
     try:
+        # Get the project root directory
+        current_dir = Path(__file__).resolve().parent
+        project_root = current_dir.parent.parent
+        data_dir = project_root / 'data' / 'visualization'
+        
+        # Check if data directory exists
+        if not data_dir.exists():
+            logging.error(f"Data directory not found: {data_dir}")
+            return pd.DataFrame()
+        
         # Get the latest analysis file
-        data_dir = Path('data/visualization')
         analysis_files = list(data_dir.glob('Processed_*.csv'))
         if not analysis_files:
-            logging.error("No analysis files found")
+            logging.error(f"No analysis files found in {data_dir}")
             return pd.DataFrame()
             
         latest_file = max(analysis_files, key=lambda x: x.stat().st_mtime)

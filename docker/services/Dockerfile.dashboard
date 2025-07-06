@@ -20,8 +20,15 @@ COPY --from=builder /usr/local/lib/python3.12/site-packages /usr/local/lib/pytho
 # Copy application code
 COPY src /app/src
 
+# Set working directory
+WORKDIR /app
+
 # Set proper permissions
 RUN chmod -R 755 /app/src
+
+# Create data directories
+RUN mkdir -p /app/data/visualization /app/logs \
+    && chmod -R 777 /app/data /app/logs
 
 # Expose the port Dash will run on
 EXPOSE 8050
