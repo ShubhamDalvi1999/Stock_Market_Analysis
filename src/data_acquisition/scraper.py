@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, WebDriverException
+from webdriver_manager.chrome import ChromeDriverManager
 
 class Logger:
     """Handles all logging operations."""
@@ -41,7 +42,8 @@ class PathManager:
     def setup_paths(self):
         """Set up all required paths and directories."""
         self.project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-        self.driver_path = os.path.join(self.project_root, "chromedriver-win64", "chromedriver.exe")
+        # Use webdriver-manager for automatic ChromeDriver management
+        self.driver_path = None  # Will be managed by webdriver-manager
         self.downloads_folder = os.path.join(self.project_root, "temp_downloads")
         
         # Setup data directories
@@ -56,13 +58,13 @@ class PathManager:
         os.makedirs(self.processed_dir, exist_ok=True)
         os.makedirs(self.archive_dir, exist_ok=True)
         
-        self.logger.info(f"Using ChromeDriver path: {self.driver_path}")
+        self.logger.info(f"Using webdriver-manager for automatic ChromeDriver management")
         self.logger.info(f"Downloads folder: {self.downloads_folder}")
         self.logger.info(f"Raw data directory: {self.raw_dir}")
         self.logger.info(f"Processed data directory: {self.processed_dir}")
         self.logger.info(f"Archive directory: {self.archive_dir}")
 
-class ChromeDriverManager:
+class WebDriverManager:
     """Manages Chrome WebDriver setup and operations."""
     def __init__(self, path_manager, logger):
         self.path_manager = path_manager
@@ -78,14 +80,31 @@ class ChromeDriverManager:
             "download.directory_upgrade": True,
             "safebrowsing.enabled": True
         })
+        
+        # Add standard Chrome options
         chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--disable-software-rasterizer')
+        
+        # Add environment-specific options if available (for Docker)
+        chrome_opts = os.environ.get('CHROME_OPTIONS', '')
+        if chrome_opts:
+            for opt in chrome_opts.split():
+                if opt and not any(opt.startswith(existing) for existing in ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--disable-software-rasterizer']):
+                    chrome_options.add_argument(opt)
+        
         return chrome_options
         
     def initialize_driver(self):
         """Initialize and configure Chrome WebDriver."""
         try:
             chrome_options = self.setup_chrome_options()
-            service = Service(executable_path=self.path_manager.driver_path)
+            # Use webdriver-manager with proper exception handling
+            driver_path = ChromeDriverManager().install()
+            self.logger.info(f"ChromeDriver installed at: {driver_path}")
+            service = Service(driver_path)
             self.driver = webdriver.Chrome(service=service, options=chrome_options)
             self.wait = WebDriverWait(self.driver, 20)
             self.logger.info("Successfully initialized Chrome driver")
@@ -105,8 +124,8 @@ class ChromeDriverManager:
 
 class DataScraper:
     """Handles the main scraping operations."""
-    def __init__(self, driver_manager, path_manager, logger):
-        self.driver_manager = driver_manager
+    def __init__(self, webdriver_manager, path_manager, logger):
+        self.webdriver_manager = webdriver_manager
         self.path_manager = path_manager
         self.logger = logger
         self.url = "https://www.samco.in/bhavcopy-nse-bse-mcx"
@@ -135,8 +154,8 @@ class DataScraper:
                     
     def get_download_links(self):
         """Get download links for the latest two days."""
-        driver = self.driver_manager.driver
-        wait = self.driver_manager.wait
+        driver = self.webdriver_manager.driver
+        wait = self.webdriver_manager.wait
         
         driver.get(self.url)
         self.logger.info(f"Opened URL: {self.url}")
@@ -164,7 +183,7 @@ class DataScraper:
         for date, link in nse_links:
             try:
                 self.logger.info(f"Downloading file for {date}")
-                self.driver_manager.driver.get(link)
+                self.webdriver_manager.driver.get(link)
                 
                 date_obj = datetime.strptime(date, "%d-%m-%Y")
                 filename = f"{date_obj.strftime('%Y%m%d')}_NSEFO.csv"
@@ -193,14 +212,15 @@ def main():
     # Initialize components
     logger = Logger().logger
     path_manager = PathManager(logger)
-    driver_manager = ChromeDriverManager(path_manager, logger)
+    webdriver_manager = WebDriverManager(path_manager, logger)
+    scraper = None
     
     try:
         # Initialize driver
-        driver_manager.initialize_driver()
+        webdriver_manager.initialize_driver()
         
         # Initialize scraper and perform operations
-        scraper = DataScraper(driver_manager, path_manager, logger)
+        scraper = DataScraper(webdriver_manager, path_manager, logger)
         scraper.clear_old_files()
         
         nse_links = scraper.get_download_links()
@@ -221,8 +241,9 @@ def main():
         logger.error(f"An error occurred: {str(e)}")
         
     finally:
-        driver_manager.cleanup()
-        scraper.cleanup_downloads()
+        webdriver_manager.cleanup()
+        if scraper:
+            scraper.cleanup_downloads()
 
 if __name__ == "__main__":
     main()

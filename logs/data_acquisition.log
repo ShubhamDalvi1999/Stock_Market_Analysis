@@ -149,3 +149,50 @@
 2025-01-24 01:37:04,660 - data_acquisition - INFO - Successfully downloaded and moved 20250117_NSEFO.csv
 2025-01-24 01:37:08,766 - data_acquisition - INFO - Chrome driver closed
 2025-01-24 01:37:08,766 - data_acquisition - INFO - Cleaned up temporary downloads folder
+2025-07-02 18:18:15,145 - data_acquisition - INFO - Using webdriver-manager for automatic ChromeDriver management
+2025-07-02 18:18:15,145 - data_acquisition - INFO - Downloads folder: /app/temp_downloads
+2025-07-02 18:18:15,146 - data_acquisition - INFO - Raw data directory: /app/data/raw
+2025-07-02 18:18:15,146 - data_acquisition - INFO - Processed data directory: /app/data/processed
+2025-07-02 18:18:15,146 - data_acquisition - INFO - Archive directory: /app/data/archive
+2025-07-02 18:18:15,146 - data_acquisition - ERROR - Error initializing Chrome driver: ChromeDriverManager.__init__() missing 2 required positional arguments: 'path_manager' and 'logger'
+2025-07-02 18:18:15,147 - data_acquisition - ERROR - An error occurred: ChromeDriverManager.__init__() missing 2 required positional arguments: 'path_manager' and 'logger'
+2025-07-02 18:20:05,458 - data_acquisition - INFO - Using webdriver-manager for automatic ChromeDriver management
+2025-07-02 18:20:05,459 - data_acquisition - INFO - Downloads folder: /app/temp_downloads
+2025-07-02 18:20:05,460 - data_acquisition - INFO - Raw data directory: /app/data/raw
+2025-07-02 18:20:05,460 - data_acquisition - INFO - Processed data directory: /app/data/processed
+2025-07-02 18:20:05,460 - data_acquisition - INFO - Archive directory: /app/data/archive
+2025-07-02 18:20:05,461 - WDM - INFO - ====== WebDriver manager ======
+2025-07-02 18:20:05,701 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 18:20:05,860 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 18:20:05,973 - WDM - INFO - There is no [linux64] chromedriver "138.0.7204.92" for browser google-chrome "138.0.7204" in cache
+2025-07-02 18:20:05,973 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 18:20:06,309 - WDM - INFO - WebDriver version 138.0.7204.92 selected
+2025-07-02 18:20:06,313 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/linux64/chromedriver-linux64.zip
+2025-07-02 18:20:06,314 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/linux64/chromedriver-linux64.zip
+2025-07-02 18:20:06,432 - WDM - INFO - Driver downloading response is 200
+2025-07-02 18:20:10,451 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-02 18:20:10,872 - WDM - INFO - Driver has been saved in cache [/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92]
+2025-07-02 18:20:10,875 - data_acquisition - ERROR - Error initializing Chrome driver: [Errno 8] Exec format error: '/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-02 18:20:10,876 - data_acquisition - ERROR - An error occurred: [Errno 8] Exec format error: '/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-02 18:34:45,545 - data_acquisition - INFO - Using webdriver-manager for automatic ChromeDriver management
+2025-07-02 18:34:45,546 - data_acquisition - INFO - Downloads folder: /app/temp_downloads
+2025-07-02 18:34:45,546 - data_acquisition - INFO - Raw data directory: /app/data/raw
+2025-07-02 18:34:45,547 - data_acquisition - INFO - Processed data directory: /app/data/processed
+2025-07-02 18:34:45,547 - data_acquisition - INFO - Archive directory: /app/data/archive
+2025-07-02 18:34:45,547 - data_acquisition - ERROR - Error initializing Chrome driver: ChromeDriverManager.__init__() missing 2 required positional arguments: 'path_manager' and 'logger'
+2025-07-02 18:34:45,548 - data_acquisition - ERROR - An error occurred: ChromeDriverManager.__init__() missing 2 required positional arguments: 'path_manager' and 'logger'
+2025-07-06 18:42:01,834 - data_acquisition - INFO - Using webdriver-manager for automatic ChromeDriver management
+2025-07-06 18:42:01,835 - data_acquisition - INFO - Downloads folder: /app/temp_downloads
+2025-07-06 18:42:01,836 - data_acquisition - INFO - Raw data directory: /app/data/raw
+2025-07-06 18:42:01,836 - data_acquisition - INFO - Processed data directory: /app/data/processed
+2025-07-06 18:42:01,836 - data_acquisition - INFO - Archive directory: /app/data/archive
+2025-07-06 18:42:01,837 - WDM - INFO - ====== WebDriver manager ======
+2025-07-06 18:42:02,350 - WDM - INFO - There is no [linux64] chromedriver "latest" for browser google-chrome "138.0.7204.92" in cache
+2025-07-06 18:42:02,350 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-06 18:42:02,645 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/linux64/chromedriver-linux64.zip
+2025-07-06 18:42:02,646 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.92/linux64/chromedriver-linux64.zip
+2025-07-06 18:42:02,748 - WDM - INFO - Driver downloading response is 200
+2025-07-06 18:42:04,891 - WDM - INFO - Driver has been saved in cache [/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92]
+2025-07-06 18:42:04,892 - data_acquisition - INFO - ChromeDriver installed at: /home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver
+2025-07-06 18:42:04,894 - data_acquisition - ERROR - Error initializing Chrome driver: [Errno 8] Exec format error: '/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-06 18:42:04,894 - data_acquisition - ERROR - An error occurred: [Errno 8] Exec format error: '/home/app/.wdm/drivers/chromedriver/linux64/138.0.7204.92/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'

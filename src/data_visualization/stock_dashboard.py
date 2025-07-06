@@ -7,10 +7,15 @@ from layouts import create_main_layout
 from callbacks import register_callbacks
 
 # Configure logging
-if not os.path.exists('logs'):
-    os.makedirs('logs')
+current_dir = Path(__file__).resolve().parent
+project_root = current_dir.parent.parent
+logs_dir = project_root / 'logs'
+
+if not logs_dir.exists():
+    logs_dir.mkdir(parents=True, exist_ok=True)
+    
 logging.basicConfig(
-    filename='logs/data_visualization.log',
+    filename=logs_dir / 'data_visualization.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
@@ -18,11 +23,18 @@ logging.basicConfig(
 def load_data():
     """Load data for the dashboard."""
     try:
+        # Use the project root directory defined at module level
+        data_dir = project_root / 'data' / 'visualization'
+        
+        # Check if data directory exists
+        if not data_dir.exists():
+            logging.error(f"Data directory not found: {data_dir}")
+            return pd.DataFrame(), {}
+        
         # Get the latest analysis file
-        data_dir = Path('data/visualization')
         analysis_files = list(data_dir.glob('Processed_*.csv'))
         if not analysis_files:
-            logging.error("No analysis files found")
+            logging.error(f"No analysis files found in {data_dir}")
             return pd.DataFrame(), {}
             
         latest_file = max(analysis_files, key=lambda x: x.stat().st_mtime)
@@ -32,7 +44,7 @@ def load_data():
         # Get the latest summary file
         summary_files = list(data_dir.glob('Summary_*.csv'))
         if not summary_files:
-            logging.error("No summary files found")
+            logging.error(f"No summary files found in {data_dir}")
             return analysis_df, {}
             
         latest_summary = max(summary_files, key=lambda x: x.stat().st_mtime)
@@ -41,7 +53,7 @@ def load_data():
         
         # Convert summary to dictionary
         data_overview = dict(zip(summary_df['Metric'], summary_df['Value']))
-        logging.info(f"Successfully loaded {len(analysis_df)} records")
+        logging.info(f"Successfully loaded {len(analysis_df)} records with columns: {analysis_df.columns.tolist()}")
         
         return analysis_df, data_overview
         
@@ -62,4 +74,8 @@ app.layout = create_main_layout(analysis_df, data_overview)
 register_callbacks(app)
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+
+    #  app.run_server(debug=True) # without docker
+    
+    # Run server with host='0.0.0.0' to make it accessible outside container
+    app.run_server(debug=True, host='0.0.0.0')

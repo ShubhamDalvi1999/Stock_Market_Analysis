@@ -1,0 +1,104 @@
+version: '3.8'
+
+x-common-volumes: &common-volumes
+  - ./data:/app/data
+  - ./logs:/app/logs
+  - ./src:/app/src
+
+x-common-environment: &common-environment
+  PYTHONPATH: /app
+  PYTHONUNBUFFERED: 1
+
+x-build-args: &build-args
+  PYTHON_VERSION: 3.12-slim
+  SPARK_VERSION: v3.5.0
+
+services:
+  dashboard:
+    build:
+      context: .
+      dockerfile: docker/services/Dockerfile.dashboard
+      args:
+        <<: *build-args
+    ports:
+      - "8050:8050"
+    volumes: *common-volumes
+    environment:
+      <<: *common-environment
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8050"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 512M
+    networks:
+      - stock-analysis
+
+  scraper:
+    build:
+      context: .
+      dockerfile: docker/services/Dockerfile.scraper
+      args:
+        <<: *build-args
+    volumes: 
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./src:/app/src
+      - /dev/shm:/dev/shm
+    environment:
+      <<: *common-environment
+      CHROME_OPTIONS: "--headless --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-software-rasterizer"
+      PYTHONUNBUFFERED: 1
+      DISPLAY: :99
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+          cpus: '2'
+        reservations:
+          memory: 512M
+          cpus: '1'
+    shm_size: 2gb
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - seccomp=unconfined
+    networks:
+      - stock-analysis
+
+  processor:
+    build:
+      context: .
+      dockerfile: docker/services/Dockerfile.processor
+      args:
+        <<: *build-args
+    volumes: *common-volumes
+    environment:
+      <<: *common-environment
+      SPARK_MASTER: local[*]
+      SPARK_DRIVER_MEMORY: 2g
+      SPARK_EXECUTOR_MEMORY: 2g
+      SPARK_WORKER_MEMORY: 2g
+      SPARK_WORKER_CORES: 2
+      SPARK_DRIVER_CORES: 2
+    depends_on:
+      - scraper
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 1G
+    networks:
+      - stock-analysis
+
+networks:
+  stock-analysis:
+    driver: bridge 

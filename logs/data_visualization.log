@@ -1326,3 +1326,252 @@
 2025-01-25 17:09:29,161 - INFO - Successfully loaded 228 records
 2025-01-25 17:09:29,163 - INFO - Successfully loaded 228 records
 2025-01-25 17:09:29,163 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:54,594 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:54,608 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:49:54,613 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:54,617 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-01-25 19:49:56,233 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:56,233 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:49:56,237 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,735 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:49:59,739 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,762 - INFO - Successfully loaded 228 records
+2025-01-25 19:49:59,777 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,163 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,163 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,167 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:50:00,171 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,171 - INFO - Successfully loaded 228 records
+2025-01-25 19:50:00,175 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:19,844 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:19,848 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:51:19,848 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,029 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,029 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,033 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,033 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,035 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,039 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,100 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:51:20,104 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,108 - INFO - Successfully loaded 228 records
+2025-01-25 19:51:20,113 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,684 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,690 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:17,690 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,927 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:17,935 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,935 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:17,939 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,011 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,014 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,014 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:18,018 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,020 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:18,022 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,235 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,239 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:28,243 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,387 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,389 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,389 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,391 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,395 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,395 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,446 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,451 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,451 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:28,455 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,455 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:28,459 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:32,884 - INFO - Loading analysis data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:32,888 - INFO - Loading summary data from data\visualization\Summary_20250123.csv
+2025-01-25 19:52:32,890 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,264 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,271 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,273 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,275 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,327 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,331 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,331 - INFO - Loading data from data\visualization\Processed_20250123_Analysis.csv
+2025-01-25 19:52:34,335 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,338 - INFO - Successfully loaded 228 records
+2025-01-25 19:52:34,339 - INFO - Successfully loaded 228 records
+2025-07-02 18:15:38,086 - INFO - Loading analysis data from data/visualization/Processed_20250123_Analysis.csv
+2025-07-02 18:15:38,110 - INFO - Loading summary data from data/visualization/Summary_20250123.csv
+2025-07-02 18:15:38,119 - INFO - Successfully loaded 228 records
+2025-07-02 18:15:38,127 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-02 18:15:42,616 - INFO - Loading analysis data from data/visualization/Processed_20250123_Analysis.csv
+2025-07-02 18:15:42,629 - INFO - Loading summary data from data/visualization/Summary_20250123.csv
+2025-07-02 18:15:42,633 - INFO - Successfully loaded 228 records
+2025-07-02 18:18:17,118 - INFO - Loading analysis data from data/visualization/Processed_20250123_Analysis.csv
+2025-07-02 18:18:17,186 - INFO - Loading summary data from data/visualization/Summary_20250123.csv
+2025-07-02 18:18:17,194 - INFO - Successfully loaded 228 records
+2025-07-02 18:18:17,216 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-02 18:18:20,082 - INFO - Loading analysis data from data/visualization/Processed_20250123_Analysis.csv
+2025-07-02 18:18:20,118 - INFO - Loading summary data from data/visualization/Summary_20250123.csv
+2025-07-02 18:18:20,124 - INFO - Successfully loaded 228 records
+2025-07-02 18:20:07,477 - INFO - Loading analysis data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:20:07,499 - INFO - Loading summary data from data/visualization/Summary_20250702.csv
+2025-07-02 18:20:07,508 - INFO - Successfully loaded 0 records
+2025-07-02 18:20:07,515 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-02 18:20:09,516 - INFO - Loading analysis data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:20:09,538 - INFO - Loading summary data from data/visualization/Summary_20250702.csv
+2025-07-02 18:20:09,543 - INFO - Successfully loaded 0 records
+2025-07-02 18:20:29,816 - INFO - Loading data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:20:29,824 - INFO - Successfully loaded 0 records
+2025-07-02 18:20:30,221 - INFO - Loading data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:20:30,228 - INFO - Successfully loaded 0 records
+2025-07-02 18:34:47,600 - INFO - Loading analysis data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:34:47,626 - INFO - Loading summary data from data/visualization/Summary_20250702.csv
+2025-07-02 18:34:47,636 - INFO - Successfully loaded 0 records
+2025-07-02 18:34:47,644 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-02 18:34:50,037 - INFO - Loading analysis data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:34:50,067 - INFO - Loading summary data from data/visualization/Summary_20250702.csv
+2025-07-02 18:34:50,074 - INFO - Successfully loaded 0 records
+2025-07-02 18:34:51,508 - INFO - Loading data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:34:51,514 - INFO - Successfully loaded 0 records
+2025-07-02 18:34:51,681 - INFO - Loading data from data/visualization/Processed_20250702_Analysis.csv
+2025-07-02 18:34:51,693 - INFO - Successfully loaded 0 records
+2025-07-03 08:50:08,021 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 08:50:08,040 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 08:50:08,046 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 08:50:08,052 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-03 08:50:09,838 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 08:50:09,842 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 08:50:09,843 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 08:52:41,281 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 08:52:41,295 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 08:52:41,298 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 08:52:41,303 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-03 08:52:42,988 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 08:52:42,991 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 08:52:42,991 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 08:53:04,983 - ERROR - No analysis files found
+2025-07-03 08:53:04,983 - ERROR - No analysis files found
+2025-07-03 08:53:05,073 - ERROR - No analysis files found
+2025-07-03 08:53:05,490 - ERROR - No analysis files found
+2025-07-03 08:53:13,867 - ERROR - No analysis files found
+2025-07-03 08:53:13,869 - ERROR - No analysis files found
+2025-07-03 08:53:13,869 - ERROR - No analysis files found
+2025-07-03 08:53:14,308 - ERROR - No analysis files found
+2025-07-03 08:53:20,345 - ERROR - No analysis files found
+2025-07-03 08:53:23,851 - ERROR - No analysis files found
+2025-07-03 08:53:23,854 - ERROR - No analysis files found
+2025-07-03 08:53:24,181 - ERROR - No analysis files found
+2025-07-03 08:53:28,591 - ERROR - No analysis files found
+2025-07-03 08:53:29,580 - ERROR - No analysis files found
+2025-07-03 08:54:08,437 - ERROR - No analysis files found
+2025-07-03 08:54:08,437 - ERROR - No analysis files found
+2025-07-03 08:54:08,765 - ERROR - No analysis files found
+2025-07-03 08:54:17,662 - ERROR - No analysis files found
+2025-07-03 08:54:17,663 - ERROR - No analysis files found
+2025-07-03 08:54:17,665 - ERROR - No analysis files found
+2025-07-03 08:54:18,040 - ERROR - No analysis files found
+2025-07-03 08:54:52,486 - ERROR - No analysis files found
+2025-07-03 08:54:52,798 - ERROR - No analysis files found
+2025-07-03 08:54:52,822 - ERROR - No analysis files found
+2025-07-03 08:55:22,829 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 08:55:22,833 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 08:55:22,834 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 08:55:23,638 - ERROR - No analysis files found
+2025-07-03 08:55:23,954 - ERROR - No analysis files found
+2025-07-03 08:55:23,954 - ERROR - No analysis files found
+2025-07-03 08:55:24,019 - ERROR - No analysis files found
+2025-07-03 08:55:52,493 - ERROR - No analysis files found
+2025-07-03 08:55:52,800 - ERROR - No analysis files found
+2025-07-03 08:55:52,800 - ERROR - No analysis files found
+2025-07-03 08:55:52,942 - ERROR - No analysis files found
+2025-07-03 08:57:31,592 - ERROR - No analysis files found
+2025-07-03 08:57:39,741 - ERROR - No analysis files found
+2025-07-03 08:57:39,755 - ERROR - No analysis files found
+2025-07-03 08:57:39,759 - ERROR - No analysis files found
+2025-07-03 08:57:40,107 - ERROR - No analysis files found
+2025-07-03 08:57:46,808 - ERROR - No analysis files found
+2025-07-03 08:57:46,809 - ERROR - No analysis files found
+2025-07-03 08:57:47,126 - ERROR - No analysis files found
+2025-07-03 09:01:18,732 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:18,737 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 09:01:18,738 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 09:01:29,529 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:29,532 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 09:01:29,533 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 09:01:51,932 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:51,932 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:51,932 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:51,935 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:51,948 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:51,949 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,253 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,253 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,255 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,259 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,269 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,272 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,317 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,319 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,422 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,425 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,441 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,443 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,596 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,597 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,599 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,607 - INFO - Successfully loaded 225 records
+2025-07-03 09:01:52,644 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:01:52,647 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:11,382 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:11,386 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 09:02:11,389 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 09:02:11,392 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-03 09:02:14,579 - INFO - Loading analysis data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:14,585 - INFO - Loading summary data from D:\Apache Spark Project Stock market analysis\data\visualization\Summary_20250703.csv
+2025-07-03 09:02:14,586 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-03 09:02:15,501 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,503 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:15,812 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,812 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,816 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:15,818 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:15,867 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,869 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,869 - INFO - Loading data from D:\Apache Spark Project Stock market analysis\data\visualization\Processed_20250703_Analysis.csv
+2025-07-03 09:02:15,874 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:15,877 - INFO - Successfully loaded 225 records
+2025-07-03 09:02:15,878 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:03,600 - INFO - Loading analysis data from /app/data/visualization/Processed_20250703_Analysis.csv
+2025-07-06 18:42:03,628 - INFO - Loading summary data from /app/data/visualization/Summary_20250703.csv
+2025-07-06 18:42:03,639 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-06 18:42:03,646 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-07-06 18:42:05,568 - INFO - Loading analysis data from /app/data/visualization/Processed_20250703_Analysis.csv
+2025-07-06 18:42:05,595 - INFO - Loading summary data from /app/data/visualization/Summary_20250703.csv
+2025-07-06 18:42:05,601 - INFO - Successfully loaded 225 records with columns: ['INSTRUMENT', 'SYMBOL', 'EXPIRY_DT', 'OPTION_TYP', 'CLOSE', 'CLOSE_prev', 'PRICE_CHANGE', 'PRICE_CHANGE_PCT', 'OPEN_INT', 'OPEN_INT_prev', 'CHG_IN_OI', 'OI_CHANGE_PCT', 'OI_PATTERN']
+2025-07-06 18:42:48,144 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,144 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,148 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,162 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:48,162 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:48,170 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:48,586 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,586 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,588 - INFO - Loading data from /app/data/visualization/Processed_20250706_Analysis.csv
+2025-07-06 18:42:48,597 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:48,603 - INFO - Successfully loaded 225 records
+2025-07-06 18:42:48,604 - INFO - Successfully loaded 225 records
